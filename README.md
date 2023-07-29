@@ -3,4 +3,4 @@ I am currently developing a mobile application with Android Studio
 
 It is about 20% done.
 
-only the layouts are published here
+only the layouts are published here since it is very incomplete
